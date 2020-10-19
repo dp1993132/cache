@@ -8,5 +8,3 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/ssdb/gossdb v0.0.0-20180723034631-88f6b59b84ec
 )
-
-replace ./cache => github.com/dp1993132/cache
