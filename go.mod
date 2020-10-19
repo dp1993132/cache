@@ -1,4 +1,4 @@
-module github.com/dp1993132/cache
+module dp1993132.com/cache
 
 go 1.13
 
